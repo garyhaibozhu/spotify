@@ -29,8 +29,8 @@ Perfect for small scripts, demos, or augmenting a music database with Spotify li
 
 ```bash
 # 1. Clone or download this repo
-git clone https://github.com/your-name/spotify-cli-search.git
-cd spotify-cli-search
+git clone https://github.com/garyhaibozhu/spotify
+cd spotify
 
 # 2. Create & activate a virtual environment (optional)
 python -m venv venv
